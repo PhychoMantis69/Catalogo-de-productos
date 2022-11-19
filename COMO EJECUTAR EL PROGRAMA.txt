@@ -1,0 +1,3 @@
+-Este programa fue desarrolado en visual studio community, para ejecutarlo debe hacerlo con el Visual Studio Community
+
+-Para correr el programa tambien necesita ejecutar la base de datos Catalogo DB
